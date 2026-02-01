@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VoteLock AI",
+  "description": "Secure AI-powered voting protection system using biometric face verification and Aadhaar mapping.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
